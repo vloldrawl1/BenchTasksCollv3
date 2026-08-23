@@ -1,0 +1,1 @@
+Create an error tracking system that logs errors with timestamps, severity levels, and stack traces. Generate summary reports of error frequency and trends.
